@@ -4,4 +4,4 @@
 
 ![alt text](readme_photo/bellman.png)
 
-[Documentation:](../Project_final/CPE400_finalProject_writeUp.pdf)
+[Documentation:](Project_final/CPE400_finalProject_writeUp.pdf)
